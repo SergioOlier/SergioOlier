@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sergio Olier Meza, Software Development Student.
+- 👀 I’m interested in Web Development & VideoGames.
+- 🌱 I’m currently learning Backend focused Web development.
+- 💞️ I’m looking to collaborate on web application that expands my knowledge in programming.
+- 📫 You can reach me by Email solierm17@gmail.com or by my Linkedin linkedin.com/in/oliermezasergio/.
