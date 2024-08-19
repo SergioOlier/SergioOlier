@@ -53,35 +53,11 @@
 </p>        
 <!--- stats (end) -->
 
-
-
-
-
-  ![Welcome to my profile](https://github.com/JOSUERV99/JOSUERV99/blob/main/welcome.jpg?raw=true)
-
-<hr>
-<!-- MAIN PHRASE SECTION -->
-<span align="center">
-  <span>
-    <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
-      <span align="center">Alejandro Taboada Sanchez</span>
-    </h4>
-</span>
-
-<!-- ABOUT YOU -->
-<hr>
-<h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
-  <ul>
-    <li>🔭 I’m currently working on <strong>CloudPay</strong></li>
-    <li>🌱 I’m currently learning <strong>Spring,Electron,GraphQL,...</strong></li>
-    <li>📫 How to reach me <strong>josuerojasvega@gmail.com</strong></li>
-  </ul>
-
 <!-- CONNECTION -->
 <hr>      
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sergio-olier-meza-567045274" target="blank"><img align="center" src="https://raw.githubusercontent.com/SergioOlier/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergio-olier-meza-567045274" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/20172084/sergio-olier" target="blank"><img align="center" src="https://raw.githubusercontent.com/SergioOlier/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SergioOlier" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/sergioandres.zzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sergio-olier-meza-567045274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/20172084/sergio-olier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
+  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
 </p>
