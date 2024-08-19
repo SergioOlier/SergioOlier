@@ -11,13 +11,6 @@
 - 📫 You can reach me by Email solierm17@gmail.com or by my Linkedin https://www.linkedin.com/in/oliermezasergio/.
 <br>
 
-## 🛠️ FrontEnd
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
 <!--- stats & Trophy (start) -->
 
 <table width="100%" >
