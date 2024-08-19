@@ -100,7 +100,7 @@
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SergioOlier&theme=radical&show_icons=true&title_color=navy&text_color=black" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioOlier"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioOlier&theme=radical"/>
  </br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioOlier&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=141321&theme=radical" />
 </p>
