@@ -98,12 +98,11 @@
 
 
 <p align="center">
-  
-  <img width="100%" src="[https://github-readme-stats.vercel.app/api?username=SergioOlier&theme=radical&show_icons=true&bg_color=transparent&title_color=navy&text_color=black](https://github-readme-stats.vercel.app/api?username=SergioOlier&theme=radical&hide_border=true&include_all_commits=false&count_private=true)" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SergioOlier&theme=radical&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioOlier"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioOlier&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioOlier&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=141321&theme=radical" />
 </p>
      
   </td>
@@ -119,13 +118,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SergioOlier&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SergioOlier&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SergioOlier&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioOlier&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
