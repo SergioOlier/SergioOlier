@@ -4,7 +4,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
-- 👋 Hi, I’m Sergio Olier Meza, Software Development Student.
+- 👋 Hi, I’m Software Development Student.
 - 👀 I’m interested in Web Development & VideoGames.
 - 🌱 I’m currently learning Backend focused Web development.
 - 💞️ I’m looking to collaborate on web application that expands my knowledge in programming.
