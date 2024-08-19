@@ -10,7 +10,6 @@
 - 💞️ I’m looking to collaborate on web application that expands my knowledge in programming.
 - 📩 My Email is solierm17@gmail.com
 <br>
-<br>
 
 <h3 align="center">📫 Connect with me:</h3>
 <p align="center">
@@ -112,7 +111,6 @@
 
 <!-- CONNECTION -->
 <hr>      
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
