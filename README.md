@@ -98,7 +98,7 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SergioOlier&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SergioOlier&theme=radical&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioOlier"/>
  </br>
