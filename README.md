@@ -11,7 +11,15 @@
 -  Email solierm17@gmail.com or by my Linkedin https://www.linkedin.com/in/oliermezasergio/.
 <br>
 <br>
-<!--- stats & Trophy (start) -->
+
+<h3 align="center">📫📩 Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sergio-olier-meza-567045274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/20172084/sergio-olier" target="blank"><img align="center" src="https://github.com/madelinekinnaird/Gerrymandr/blob/master/images/az1.PNG" alt="josuerv729" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/sergioandres.zzz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/20172084/sergio-olier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1841212" height="30" width="40" /></a>
+</p>
+
 
 <table width="100%" >
 
@@ -104,12 +112,7 @@
 
 <!-- CONNECTION -->
 <hr>      
-<h3 align="center">📫📩 Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/sergio-olier-meza-567045274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/20172084/sergio-olier" target="blank"><img align="center" src="https://github.com/madelinekinnaird/Gerrymandr/blob/master/images/az1.PNG" alt="josuerv729" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/sergioandres.zzz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
-</p>
+
 
 
 
@@ -123,3 +126,26 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SergioOlier&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
