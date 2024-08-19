@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on web application that expands my knowledge in programming.
 - 📫 You can reach me by Email solierm17@gmail.com or by my Linkedin https://www.linkedin.com/in/oliermezasergio/.
 <br>
-
+<br>
 <!--- stats & Trophy (start) -->
 
 <table width="100%" >
