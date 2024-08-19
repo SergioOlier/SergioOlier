@@ -15,11 +15,14 @@
 <h3 align="center">📫📩 Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sergio-olier-meza-567045274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/20172084/sergio-olier" target="blank"><img align="center" src="https://github.com/madelinekinnaird/Gerrymandr/blob/master/images/az1.PNG" alt="josuerv729" height="30" width="40" /></a>
   <a href="https://www.instagram.com/sergioandres.zzz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/20172084/sergio-olier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1841212" height="30" width="40" /></a>
+  <a href="mailto:solierm17@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  </a>
 </p>
-
+<br>
+<br>
 
 <table width="100%" >
 
@@ -147,5 +150,43 @@
 
 
 
+<h1 align="center">Hi, I'm Chakravarthi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/chakravarthi-v/">
+   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
+    </a><span>&nbsp;</span>
+  <a href="https://twitter.com/ChakriVV">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="https://www.instagram.com/___chakri_/">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <span>&nbsp;</span>
+  <a href="https://github.com/chakravarthi-v">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+</p>
+<h3 align="center">A Junior Computer Science Undergrad at SRM Institute of Science and Technology who is currently learning MERN stack web development</h3>
+
+<br>
+
+<br>
+
+  <a href="https://github.com/chakravarthi-v">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakravarthi-v&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
+  </a>
+  <a href="https://github.com/chakravarthi-v">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chakravarthi-v&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakravarthi's github stats" height="220px" />
+  </a>
+
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=chakravarthi-v.408179647)
+
+------
+
+Credit: [chakravarthi-v](https://github.com/chakravarthi-v)
+
+Last Edited on: 20/09/2021
 
