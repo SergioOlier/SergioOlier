@@ -13,10 +13,18 @@
 <br>
 <h3 align="center">📫 Connect with me:</h3>
 <p align="center">
+  <a href="https://www.linkedin.com/in/sergio-olier-meza-567045274" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:solierm17@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+<!--<p align="center">
   <a href="https://www.linkedin.com/in/sergio-olier-meza-567045274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
   <a href="https://www.instagram.com/sergioandres.zzz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/20172084/sergio-olier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1841212" height="30" width="40" /></a>
-</p>
+</p>-->
 <br>
 <br>
 
