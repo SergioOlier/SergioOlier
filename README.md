@@ -32,7 +32,7 @@
  <tr>
     <td width="60%">
      
-## 🛠️ Skills
+## 🛠️ Basic Skills
 
 #### Frontend
 
