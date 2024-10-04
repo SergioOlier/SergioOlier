@@ -6,8 +6,8 @@
 <br>
 - 👋 Hi, I’m Software Development Student.
 - 👀 I’m interested in Web Development & VideoGames.
-- 🌱 I’m currently learning Backend focused Web development.
-- 💞️ I’m looking to collaborate on web application that expands my knowledge in programming.
+- 🌱 I am currently learning more about the frontend.
+- 💞️ I am looking to collaborate on projects that expand my programming knowledge.
 - 📩 My Email is solierm17@gmail.com
 <br>
 <br>
